@@ -1,0 +1,18 @@
+{
+  "name": "dash-button-demo",
+  "version": "1.0.0",
+  "description": "AWS Polly and AWS Dash Button demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Dalziel <john@crashposition.com> (http://crashposition.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.188.0",
+    "moment": "2.20.1",
+    "node-dash-button": "0.6.1",
+    "node-uuid": "1.4.8",
+    "speaker": "0.4.0"
+  }
+}
