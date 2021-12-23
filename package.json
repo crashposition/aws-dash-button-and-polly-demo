@@ -9,10 +9,9 @@
   "author": "John Dalziel <john@crashposition.com> (http://crashposition.com/)",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "2.188.0",
-    "moment": "2.20.1",
+    "aws-sdk": "2.1048.0",
+    "moment": "2.29.1",
     "node-dash-button": "0.6.1",
-    "node-uuid": "1.4.8",
-    "speaker": "0.4.0"
+    "speaker": "0.5.3"
   }
 }
